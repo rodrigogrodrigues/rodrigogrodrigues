@@ -1,4 +1,4 @@
-tOlá, me chamo Rodrigo Rodrigues 👋
+tOlá, me chamo Rodrigo Rodrigues. Atualmente estou estudando Análise e Desenvolvimento de Sistemas, atuando na parte de infraestrutura.👋
 
 - 🔭 Trabalho com desenvolvimento back-end
 - 🌱 Estudando C# e .Net
@@ -15,7 +15,7 @@ tOlá, me chamo Rodrigo Rodrigues 👋
 <img align="center" alt="Rodrigo-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 <img align="center" alt="Rodrigo-Virtualization" height="30" width="40" src="https://img.icons8.com/ios-filled/50/000000/virtual-machine.png">
 <img align="center" alt="Rodrigo-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="Rodrigo-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+
 
           
 </div>
