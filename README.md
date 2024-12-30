@@ -5,7 +5,7 @@ Olá, me chamo Rodrigo Rodrigues 👋
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigogrodrigues&show_icons=true&theme=transparent)
+![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigogrodrigues&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogrodrigues&hide_progress=true)
 
 ##
 
