@@ -17,10 +17,8 @@ tOlá, me chamo Rodrigo Rodrigues. Atualmente estou estudando Análise e Desenvo
 <img align="center" alt="Rodrigo-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <img align="center" alt="Rodrigo-Prometheus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original-wordmark.svg">
 <img align="center" alt="Rodrigo-pfSense" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pfsense/pfsense-original.svg">
-
-
-
-          
+<img align="center" alt="Rafa-MSSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
+<img align="center" alt="Rafa-MSSQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg">         
 </div>
 
 ##
