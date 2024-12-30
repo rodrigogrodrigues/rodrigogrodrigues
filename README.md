@@ -1,4 +1,4 @@
-tOlá, me chamo Rodrigo Rodrigues. Atualmente estou estudando Análise e Desenvolvimento de Sistemas, atuando na parte de infraestrutura.👋
+Olá, me chamo Rodrigo Rodrigues. Atualmente estou estudando Análise e Desenvolvimento de Sistemas, atuando na parte de infraestrutura.👋
 
 - 🔭 Trabalho com desenvolvimento back-end
 - 🌱 Estudando C# e .Net
