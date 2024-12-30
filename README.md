@@ -1,10 +1,10 @@
-Olá, me chamo Rodrigo Rodrigues 👋
+tOlá, me chamo Rodrigo Rodrigues 👋
 
 - 🔭 Trabalho com desenvolvimento back-end
 - 🌱 Estudando C# e .Net
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigogrodrigues&show_icons=true&theme=transparent" alt="Rodrigo's GitHub stats" style="margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigogrodrigues&show_icons=true&theme=transparent" alt="Rodrigo's GitHub stats" style="margin-right: 25px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigogrodrigues&hide_progress=true" alt="Top Langs">
 </div>
 
