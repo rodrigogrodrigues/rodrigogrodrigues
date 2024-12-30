@@ -3,6 +3,12 @@ Olá, me chamo Rodrigo Rodrigues 👋
 - 🔭 Trabalho com desenvolvimento back-end
 - 🌱 Estudando C# e .Net
 
+##
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+##
+
 <div style="display: inline_block"><br>
 <img align="center" alt="Rodrigo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Rodrigo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
